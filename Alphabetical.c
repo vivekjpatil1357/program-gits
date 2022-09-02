@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//vivek ap
 void singledigit(int);
 void twodigit(int);
 void threedigit(int);
